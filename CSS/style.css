@@ -1,0 +1,73 @@
+body {
+    background-color: #C3F8FF;
+    margin: 0;
+}
+
+h3 {
+    color: #ABD9FF;
+}
+
+/* h3{
+    border-style: dotted;
+} */
+
+/* image{
+    width: 200;
+    height: 200;
+} */
+
+p {
+    color: red;
+    font-size: 2em;
+}
+
+.name {
+    color: #ABD9FF;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.sub-title {
+    color: aqua;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.Intro {
+    background-color: #F5EFE6;
+    text-align: center;
+    height: 100vh;
+    padding-top: 10%;
+}
+
+.Educations {
+    background-color: #E8DFCA;
+    height: 50vh;
+    padding-top: 10%;
+    padding-left: 5%;
+
+
+}
+
+.contactme {
+    background-color: #AEBDCA;
+    height: 30vh;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 1%;
+
+
+
+}
+
+.dropmsg {
+    background-color: #7895B2;
+    height: 50vh;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 1%;
+
+
+
+
+}
